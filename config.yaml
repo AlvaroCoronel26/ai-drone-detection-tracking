@@ -1,0 +1,6 @@
+
+train: "C:/Users/Alvaro/Desktop/data/images/train"
+val: "C:/Users/Alvaro/Desktop/data/images/val"
+
+nc: 1
+names: ['drone']
